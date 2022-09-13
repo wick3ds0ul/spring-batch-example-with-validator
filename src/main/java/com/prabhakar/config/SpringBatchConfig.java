@@ -4,7 +4,6 @@ import com.prabhakar.batch.Processor;
 import com.prabhakar.batch.UserSkipPolicy;
 import com.prabhakar.batch.UserValidationListener;
 import com.prabhakar.batch.UserValidator;
-import com.techprimers.springbatchexample1.batch.*;
 import com.prabhakar.model.User;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
